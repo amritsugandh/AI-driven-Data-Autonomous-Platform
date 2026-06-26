@@ -241,6 +241,9 @@ select:focus-visible {
 
 .hero-visual {
   position: relative;
+  display: grid;
+  gap: 16px;
+  align-content: center;
   isolation: isolate;
   min-height: 480px;
   border: 1px solid var(--mint);
@@ -371,17 +374,26 @@ select:focus-visible {
 }
 
 .hero-panel-side {
-  position: absolute;
-  right: 16px;
-  bottom: 16px;
-  width: min(220px, calc(100% - 32px));
+  display: grid;
+  width: min(240px, 100%);
+  justify-self: end;
+  gap: 8px;
   padding: 20px;
 }
 
 .side-icon {
   width: 42px;
   height: 42px;
-  margin-bottom: 32px;
+  margin-bottom: 18px;
+}
+
+.hero-panel-side strong,
+.hero-panel-side span {
+  display: block;
+}
+
+.hero-panel-side strong {
+  line-height: 1;
 }
 
 .trusted-section {
@@ -928,7 +940,6 @@ select:focus-visible {
   }
 
   .hero-panel-side {
-    position: static;
     width: 100%;
     margin-top: 12px;
   }
