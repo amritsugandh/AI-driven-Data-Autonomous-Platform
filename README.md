@@ -96,7 +96,17 @@ Important files:
 
 ## Deployment
 
-This project is ready for Vercel.
+Live site:
+
+```text
+https://ai-driven-data-autonomous-platform-h6aa1rwpb.vercel.app
+```
+
+Vercel project dashboard:
+
+```text
+https://vercel.com/amritsugandhs-projects/ai-driven-data-autonomous-platform/DycgwpZ1B4u6j1WVCxxEes2CeL3X
+```
 
 Use these settings when importing the GitHub repository:
 
@@ -115,7 +125,5 @@ https://github.com/amritsugandh/AI-driven-Data-Autonomous-Platform.git
 
 ## Next Steps
 
-1. Import the repository into Vercel.
-2. Deploy with the Vite settings above.
-3. Add the live Vercel URL to this README after deployment.
-4. Update `public/sitemap.xml` and `public/robots.txt` with the final production domain.
+1. Update `public/sitemap.xml` and `public/robots.txt` with the final production domain.
+2. Add a custom domain in Vercel if needed.
