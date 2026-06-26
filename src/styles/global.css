@@ -161,6 +161,11 @@ select:focus-visible {
   color: var(--arctic) !important;
 }
 
+.nav-links .nav-cta:hover {
+  background: var(--nocturnal);
+  color: var(--arctic) !important;
+}
+
 .hero-section {
   padding: 72px 0 40px;
 }
