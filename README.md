@@ -2,9 +2,9 @@
 
 FlowPilot AI is a responsive Vite + React landing page for an AI-driven data automation platform. It presents workflow automation, governed AI handoffs, dynamic regional pricing, testimonials, and FAQ content in a clean, production-ready single-page website.
 
-Live Demo: https://ai-driven-data-autonomous-platform-h6aa1rwpb.vercel.app
+🚀 Live Demo: https://ai-driven-data-autonomous-platform-h6aa1rwpb.vercel.app
 
-## Features
+## ✨ Features
 
 - Responsive layout for desktop, tablet, and small mobile screens
 - Minimal entrance and interface animations with reduced-motion support
@@ -14,7 +14,7 @@ Live Demo: https://ai-driven-data-autonomous-platform-h6aa1rwpb.vercel.app
 - Accessible semantic sections, labels, and keyboard-friendly controls
 - Optimized Vite production build
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - React 19
 - TypeScript
@@ -23,7 +23,7 @@ Live Demo: https://ai-driven-data-autonomous-platform-h6aa1rwpb.vercel.app
 - ESLint
 - Prettier
 
-## Getting Started
+## ⚙️ Getting Started
 
 Install dependencies:
 
@@ -43,7 +43,7 @@ Open the local URL shown in the terminal. By default, the app runs on:
 http://127.0.0.1:5173/
 ```
 
-## Available Scripts
+## 📜 Available Scripts
 
 ```bash
 npm run dev
@@ -75,7 +75,7 @@ npm run format
 
 Formats the project with Prettier.
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 src/
@@ -96,7 +96,7 @@ Important files:
 - `src/constants/pricing.ts` - pricing plans and currency configuration
 - `src/components/Pricing/Pricing.tsx` - interactive pricing UI
 
-## Deployment
+## 🌐 Deployment
 
 Live site:
 
@@ -117,7 +117,7 @@ Use these settings when importing the GitHub repository:
 - Build Command: `npm run build`
 - Output Directory: `dist`
 
-## GitHub Repository
+## 🔗 GitHub Repository
 
 Repository:
 
@@ -125,7 +125,7 @@ Repository:
 https://github.com/amritsugandh/AI-driven-Data-Autonomous-Platform.git
 ```
 
-## Next Steps
+## ✅ Next Steps
 
 1. Update `public/sitemap.xml` and `public/robots.txt` with the final production domain.
 2. Add a custom domain in Vercel if needed.
