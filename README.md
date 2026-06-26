@@ -2,6 +2,8 @@
 
 FlowPilot AI is a responsive Vite + React landing page for an AI-driven data automation platform. It presents workflow automation, governed AI handoffs, dynamic regional pricing, testimonials, and FAQ content in a clean, production-ready single-page website.
 
+Live Demo: https://ai-driven-data-autonomous-platform-h6aa1rwpb.vercel.app
+
 ## Features
 
 - Responsive layout for desktop, tablet, and small mobile screens
