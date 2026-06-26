@@ -343,6 +343,17 @@ select:focus-visible {
   padding: 14px;
 }
 
+.flow-card-copy {
+  display: grid;
+  min-width: 0;
+  gap: 4px;
+}
+
+.flow-card-copy strong,
+.flow-card-copy span {
+  display: block;
+}
+
 .flow-card span,
 .hero-panel-side span,
 .section-heading p,

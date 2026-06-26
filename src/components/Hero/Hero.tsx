@@ -59,14 +59,14 @@ export const Hero = memo(function Hero() {
             </div>
             <div className="flow-card">
               <Icon src={icons.search} className="flow-icon" />
-              <div>
+              <div className="flow-card-copy">
                 <strong>Invoice PDF batch</strong>
                 <span>Classified, validated, ready for sync</span>
               </div>
             </div>
             <div className="flow-card is-warm">
               <Icon src={icons.cog} className="flow-icon" />
-              <div>
+              <div className="flow-card-copy">
                 <strong>Recipe confidence</strong>
                 <span>Human approval threshold met</span>
               </div>
